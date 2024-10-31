@@ -1,1 +1,3 @@
-export { example } from './example';
+export function example(): string {
+  return 'hello world';
+}
